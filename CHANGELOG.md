@@ -1,6 +1,7 @@
 # 0.9.0 (Unreleased)
 
 * logrus/text_formatter: don't emit empty msg
+* Move airbrake hook to dedicated repo (see README.md)
 
 # 0.8.7
 
